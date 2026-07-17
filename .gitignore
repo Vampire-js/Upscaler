@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local dataset (images not versioned)
+dataset/
+
+# Training artefacts
+debug/
+checkpoints/
+*.pt
+*.pth
+
+# Editor scratch / diagram sources
+*.excalidraw
+
+# Loose stray images at project root (kept locally, not versioned)
+/image.jpeg
+/img.png
