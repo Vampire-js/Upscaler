@@ -17,6 +17,8 @@ debug/
 checkpoints/
 *.pt
 *.pth
+mlruns/
+mlartifacts/
 
 # Editor scratch / diagram sources
 *.excalidraw
