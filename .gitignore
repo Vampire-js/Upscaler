@@ -14,9 +14,7 @@ dataset/
 
 # Training artefacts
 debug/
-checkpoints/*
-!checkpoints/latest.pt
-*.pt
+
 *.pth
 mlruns/
 mlartifacts/

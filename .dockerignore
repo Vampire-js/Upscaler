@@ -4,8 +4,6 @@ mlartifacts
 dataset
 debug
 samples
-checkpoints/*
-!checkpoints/latest.pt
 .git
 __pycache__
 *.pyc
