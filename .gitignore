@@ -22,6 +22,7 @@ mlartifacts/
 # Editor scratch / diagram sources
 *.excalidraw
 
+.env
 # Loose stray images at project root (kept locally, not versioned)
 /image.jpeg
 /img.png
